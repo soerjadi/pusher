@@ -4,8 +4,8 @@ lazy val firebaseVersion = "5.9.0"
 
 lazy val commonSettings = Seq(
     organization := "com.github.soerjadi.pusher",
-    version := "0.0.1-SNAPSHOT-2.10",
-    scalaVersion := "2.10.7"
+    version := "0.0.1-SNAPSHOT-2.13",
+    scalaVersion := "2.13.16"
 )
 
 // Add this to create a fat JAR
